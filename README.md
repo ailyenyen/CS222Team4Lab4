@@ -41,31 +41,31 @@ WindowsFormsApp1/
 │   ├── Settings.Designer.cs
 │   └── Settings.settings
 │
-├── bin/
-│   └── Debug/
-│       ├── WindowsFormsApp1.exe
-│       ├── WindowsFormsApp1.exe.config
-│       └── WindowsFormsApp1.exe.pdb
+├── bin/Debug
+│    |
+│    ├── WindowsFormsApp1.exe
+│    ├── WindowsFormsApp1.exe.config
+│    └── WindowsFormsApp1.exe.pdb
 │
-├── obj/
-│   └── Debug/
-│       ├── DesignTimeResolveAssemblyReferences.cache
-│       ├── DesignTimeResolveAssemblyReferencesInput.cache
-│       ├── LabActivity3.frmCalculator.resource
-│       ├── WindowsFormsApp1.Properties.Resources.resources
-│       ├── WindowsFormsApp1.csproj.AssemblyReference.cache
-│       ├── WindowsFormsApp1.csproj.CoreCompileInputs.cache
-│       ├── WindowsFormsApp1.csproj.FileListAbsolute.txt
-│       ├── WindowsFormsApp1.csproj.GenerateResource.cache
-│       ├── WindowsFormsApp1.exe
-│       ├── WindowsFormsApp1.pdb
-│       ├── App.config
-│       ├── Form1.Designer.cs
-│       ├── Form1.cs
-│       ├── Form1.resx
-│       ├── Program.cs
-│       ├── WindowsFormsApp1.csproj
-│       └── WindowsFormsApp1.sln
+├── obj/Debug
+│    |
+│    ├── DesignTimeResolveAssemblyReferences.cache
+│    ├── DesignTimeResolveAssemblyReferencesInput.cache
+│    ├── LabActivity3.frmCalculator.resource
+│    ├── WindowsFormsApp1.Properties.Resources.resources
+│    ├── WindowsFormsApp1.csproj.AssemblyReference.cache
+│    ├── WindowsFormsApp1.csproj.CoreCompileInputs.cache
+│    ├── WindowsFormsApp1.csproj.FileListAbsolute.txt
+│    ├── WindowsFormsApp1.csproj.GenerateResource.cache
+│    ├── WindowsFormsApp1.exe
+│    ├── WindowsFormsApp1.pdb
+│    ├── App.config
+│    ├── Form1.Designer.cs
+│    ├── Form1.cs
+│    ├── Form1.resx
+│    ├── Program.cs
+│    ├── WindowsFormsApp1.csproj
+│    └── WindowsFormsApp1.sln
 │
 ├── App.config
 ├── Form1.cs
