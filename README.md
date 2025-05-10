@@ -55,8 +55,9 @@
     ```bash
     https://github.com/ruben-david-roy/Calculator
     ```
- 2. open the .sln file in the Visual Studio 2022.
+ 2. Open the .sln file in the Visual Studio 2022.
  3. Press f5 to build the application.
+
 
 ## 📁 File Structure
 ```bash
