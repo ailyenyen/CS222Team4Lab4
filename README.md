@@ -50,6 +50,13 @@
   Structured to allow easy addition of new functions (e.g., scientific mode, memory).
 
 ---
+## ⚙️Installation 
+ 1. Clone the repository.
+    ```bash
+    https://github.com/ruben-david-roy/Calculator
+    ```
+ 2. open the .sln file in the Visual Studio 2022.
+ 3. Press f5 to build the application.
 
 ## 📁 File Structure
 ```bash
@@ -93,6 +100,11 @@ WindowsFormsApp1/
 ├── WindowsFormsApp1.csproj
 └── WindowsFormsApp1.sln
 ```
+## Sample Output
+![494575740_723303746775782_6676410736332942917_n](https://github.com/user-attachments/assets/8b635cb3-49f0-4d4a-be47-0fc5c03b984a)
+![494573126_1430747198339214_2019984205755234732_n](https://github.com/user-attachments/assets/87d847b7-d24f-4611-9d60-764dfa0dd47b)
+![494579835_1032753114967725_3074777245462104913_n](https://github.com/user-attachments/assets/30e5f05f-ed0a-4809-92f5-65b92802c8df)
+
 ## 👥 Team Members
 
 - John Timothy Carranza  
@@ -100,7 +112,7 @@ WindowsFormsApp1/
 - Theodore Von Bunquin  
 - Justin Miguel Antenor  
 
----
+
 
 ## 🙏 Acknowledgement
 
